@@ -1,7 +1,10 @@
 <h2 align="center">Caue Miyamura Portfolio</h1>
 <h3 align="center">A passionate data science enthusiast!</h3>
 
-- 🔭 I’m currently working on [Real State Exploratory Data Analysis - House Rocket Company Data](https://github.com/cmiyamura/House-Rocket-Analysis)
+- 🔭 I’m currently working on 
+- Python - [Real State Exploratory Data Analysis - House Rocket Company Data](https://github.com/cmiyamura/House-Rocket-Analysis)
+- SQL - [(Under construction) Covid-19 pandemic statistic analysis using SQL queries in MySQL](https://github.com/cmiyamura/covid-19-data-analysis)
+
 
 - 🌱 I’m currently learning **Advanced data analysis and Machine Learning**
 
