@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cauê</h1>
+<h1 align="center">Caue Miyamura Portfolio</h1>
 <h3 align="center">A passionate data science enthusiast!</h3>
 
 - 🌱 I’m currently learning **Advanced data analysis and Machine Learning**
