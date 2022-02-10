@@ -1,4 +1,4 @@
-<h1 align="center">Caue Miyamura Portfolio</h1>
+<h2 align="center">Caue Miyamura Portfolio</h1>
 <h3 align="center">A passionate data science enthusiast!</h3>
 
 - 🔭 I’m currently working on [Real State Exploratory Data Analysis - House Rocket Company Data](https://github.com/cmiyamura/House-Rocket-Analysis)
